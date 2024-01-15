@@ -1,0 +1,11 @@
+.page-reveal {
+    height: 70vh;
+    display: grid;
+    place-content: center;
+}
+
+
+.loader-text {
+    text-transform: uppercase;
+    font-size: 3rem;
+}
